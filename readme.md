@@ -73,5 +73,5 @@ _Web Development · Automation · DevOps · Content Creation · 3D Prototyping_
 
 ## Support
 
-[![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
-[![Donate via Card](https://img.shields.io/badge/Donate-via%20Card-702ff4?style=for-the-badge&labelColor=555555)](https://yoomoney.ru/to/410016288289737)
+[![Support me on Boosty](https://img.shields.io/badge/Support%20me%20on%20-%20Boosty%20-%20orange?style=for-the-badge&logo=boosty&color=orange)](https://boosty.to/theEvilGrinch/donate)
+[![Donate via Card](https://img.shields.io/badge/Donate%20-%20via%20Card%20-%20purple?style=for-the-badge&logo=mastercard&color=purple)](https://yoomoney.ru/to/410016288289737) 
