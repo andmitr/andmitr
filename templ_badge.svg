@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="28" role="img" aria-label="TEMPL">
+  <title>TEMPL</title>
+  <rect width="80" height="30" rx="3" fill="#0d1117"/>
+  <g transform="translate(9,7) scale(0.583)" fill="none" stroke="#dbbd30"
+     stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="8 6 2 12 8 18"/>
+    <polyline points="16 6 22 12 16 18"/>
+    <line x1="13.5" y1="4" x2="10.5" y2="20"/>
+  </g>
+  <text fill="#66d0dd" x="30" y="18.5"
+        font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        font-size="10" font-weight="bold" letter-spacing="1.5">TEMPL</text>
+</svg>

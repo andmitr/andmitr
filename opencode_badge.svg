@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135" height="28" role="img" aria-label="OPENCODE">
+  <title>OPENCODE</title>
+  <rect width="105" height="28" rx="3" fill="#0d1117"/>
+  <g transform="translate(7,7)" fill="none" stroke="#22c55e"
+     stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="0,0 6,7 0,14"/>
+    <line x1="8" y1="14" x2="15" y2="14"/>
+  </g>
+  <text fill="#a5f3fc" x="28" y="18.5"
+        font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        font-size="11" font-weight="bold" letter-spacing="1">OPENCODE</text>
+</svg>
