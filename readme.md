@@ -2,7 +2,7 @@
 
 <h2 align="center">Backend Developer</h2>
 
-Golang developer. I build websites, cross-platform applications, backend services, CLI utilities, automation scripts, and manage servers. I also write technical documentation and articles, do SEO optimization, develop and monetize personal projects. I love using code to solve interesting problems.
+Golang developer. I build websites, cross-platform applications, backend services, CLI utilities, automation scripts, and manage servers. I also write technical documentation and articles, handle SEO, develop and monetize personal projects. I love using code to solve interesting problems.
 
 ## Stack: 
 
