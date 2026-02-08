@@ -1,6 +1,6 @@
 <img src="./brand_logo_short.png" alt="profile logo"/>
 
-<h2 align="center">A passionate backend software engineer</h2>
+<h2 align="center">Backend Developer</h2>
 
 Golang developer with experience in Fullstack development and DevOps. I create websites, cross-platform applications, backend services, CLI utilities, and automation scripts. I also work on technical documentation, SEO, and server administration. I like to use code and data to do interesting things.
 
