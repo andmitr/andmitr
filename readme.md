@@ -1,10 +1,10 @@
-<img src="./brand_logo_short.png" alt="profile logo"/>
+<img src="./brand-logo-new_min.png" alt="profile logo"/>
 
 <h2 align="center">Backend Developer</h2>
 
 I build websites, cross-platform applications, micro-SaaS services, CLI utilities and automation scripts. I also manage servers, handle SEO, write technical documentation and articles, develop and monetize personal projects.
 
-## Stack: 
+## Stack 
 
 ### Main
 
