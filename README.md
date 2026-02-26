@@ -1,8 +1,4 @@
-<img src="./brand-logo-new_min.png" alt="profile logo"/>
-
-<h2 align="center">Backend Developer</h2>
-
-I build websites, cross-platform applications, micro-SaaS services, CLI utilities and automation scripts. I also manage servers, handle SEO, write technical documentation and articles, develop and monetize personal projects.
+<img src="./brand-logo-short_1280x640.png" alt="profile logo"/>
 
 ## Stack 
 
@@ -12,17 +8,14 @@ I build websites, cross-platform applications, micro-SaaS services, CLI utilitie
 ![templ badge](templ_badge.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&logoSize=auto)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
 ![K3S](https://img.shields.io/badge/K3S-FFC61C?style=for-the-badge&logo=k3s&logoColor=black&logoSize=auto)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&logoSize=auto)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white&logoSize=auto)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&logoSize=auto)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&logoSize=auto)
 
@@ -44,6 +37,8 @@ I build websites, cross-platform applications, micro-SaaS services, CLI utilitie
 ![opencode badge](opencode_badge.svg)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&logoSize=auto)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white&logoSize=auto)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&logoSize=auto)
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -65,6 +60,7 @@ I build websites, cross-platform applications, micro-SaaS services, CLI utilitie
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&logoSize=auto)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![DLE](https://img.shields.io/badge/DLE-0078D7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAxOEMxNi42NjQgMTggMjAgMTQuNjY0IDIwIDEwUzE2LjY2NCAyIDExIDJTMiAxMC4zMzYgMiAxNGMwIDMuNTMxIDIuODQ3IDYgNiA2em0tLjA3Ny01LjY1N2EuNzMuNzMgMCAwIDEtLjQ5LS4xMzYgMy4zIDEuMyAwIDAgMS0xLjQxMi0xLjI2MyAzLjc3IDMuNzcgMCAwIDEgMS41MTktMy4wNTJjLjc3Mi0uMTY2IDEuMjczLjAxMyAxLjU2My4zNDYgMS4zNjQgMS43MyAxLjI0OCAxLjY2MyAxLjI0OCAxLjY2M2ExLjMyIDEuMzIgMCAwIDEtLjIzOC40MjQgLjcgLjcgMCAwIDEtLjM1OC4xODIgMy41IDMuNSAwIDAgMS0xLjY0Ny42NDV6Ii8+PC9zdmc+&logoColor=white)
