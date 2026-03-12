@@ -1,6 +1,6 @@
-<img src="./brand-logo-short_1280x640.png" alt="profile logo"/>
-
-## Stack 
+<img src="./brand-logo-short_1280x640.png" alt="profile logo" />
+<h1 align="center">Golang Developer</h1>
+<h2 align="center">Stack</h2>
 
 ### Main
 
@@ -13,6 +13,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white&logoSize=auto)
 
 ### Also worked with
+
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
