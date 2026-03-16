@@ -1,5 +1,5 @@
 <img src="./brand-logo-short_1280x640.png" alt="profile logo" />
-<h1 align="center">Golang Developer</h1>
+<!--<h1 align="center">Golang Developer</h1>-->
 <h2 align="center">Stack</h2>
 
 ### Main
