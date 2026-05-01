@@ -62,9 +62,10 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white&logoSize=auto)
 ![opencode badge](opencode_badge.svg)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-
+<!--
 ## Stats
 
 ![GitHub User's stars](https://img.shields.io/github/stars/andmitr?style=for-the-badge)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=andmitr&theme=nord&hide_border=false)
+-->
