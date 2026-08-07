@@ -37,11 +37,3 @@
 <div align="center">
 	<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=andmitr&theme=tokyonight&hide_border=true&v=2" />
 </div>
-
-<h2 align="center">Support</h2>
-
-<p align="center">
-	If you find my work useful, consider supporting it: <a href="https://andmitr.github.io/donate/">
-		<img src="https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor badge" />
-	</a>
-</p>
