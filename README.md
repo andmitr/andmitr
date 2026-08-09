@@ -1,6 +1,6 @@
 <h1 align="center">Andrew Dmitriev | Full-Stack Developer</h1>
 
-<p>Hi, I'm Andrew 👋. I design and build products independently, focusing on backend, infrastructure, and deployment, with frontend and SEO when projects require it. Most of my work lives in private repositories, and what's public here is mostly templates, tools, and utilities from those projects.</p>
+<p>I design and build products independently, focusing on backend, infrastructure, and deployment, with frontend and SEO when projects require it. Most of my work lives in private repositories, and what's public here is mostly templates, tools, and utilities from those projects.</p>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&logoSize=auto" alt="HTML badge"/>
 	<img src="./templ.svg" alt="templ badge" />
