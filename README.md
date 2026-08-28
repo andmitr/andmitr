@@ -1,4 +1,4 @@
-<h1 align="center">Andrew Dmitriev | Full-Stack Developer</h1>
+<h1 align="center">Andrew Dmitriev | Software Engineer</h1>
 
 <p>I design and build products independently, focusing on backend, infrastructure, and deployment, with frontend and SEO when projects require it. Most of my work lives in private repositories, and what's public here is mostly templates, tools, and utilities from those projects.</p>
 <div align="center">
