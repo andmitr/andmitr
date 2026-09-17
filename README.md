@@ -1,4 +1,4 @@
-<h1 align="center">Andrew Dmitriev | Software Engineer</h1>
+<h1 align="center">Andrew Dmitriev | Software Engineer | Solopreneur</h1>
 
 <p>I design and build products independently, focusing on backend, infrastructure, and deployment, with frontend and SEO when projects require it. Most of my work lives in private repositories, and what's public here is mostly templates, tools, and utilities from those projects.</p>
 <div align="center">
@@ -23,7 +23,7 @@
 <ul>
 	<li><a href="https://github.com/andmitr/structured-data-examples">structured-data-examples</a> - Practical Schema.org and Open Graph examples for rich search snippets and social sharing previews.</li>
 	<li><a href="https://github.com/andmitr/favicon-generator-cli">favicon-generator-cli</a> - Node.js CLI tool that generates favicons from PNG/SVG sources in all required sizes and formats for major platforms. Also published on 
-	<a href="https://github.com/andmitr/favicon-generator-cli/pkgs/container/favicon-generator-cli"><img src="https://img.shields.io/badge/ghcr.io-container-blue?style=flat-square&logo=docker" alt="github container registry badge" /></a> and on <a href="https://www.npmjs.com/package/favicon-generator-cli"><img src="https://img.shields.io/npm/v/favicon-generator-cli?style=flat-square&logo=npm)" alt="npm version badge"/></a> <img src="https://img.shields.io/npm/dm/favicon-generator-cli?style=flat-square" alt="npm downloads badge for favicon-generator-cli" /></li>
+	<a href="https://github.com/andmitr/favicon-generator-cli/pkgs/container/favicon-generator-cli"><img src="https://img.shields.io/badge/ghcr.io-container-blue?style=flat-square&logo=docker" alt="github container registry badge" /></a> and on <a href="https://www.npmjs.com/package/favicon-generator-cli"><img src="https://img.shields.io/npm/v/favicon-generator-cli?style=flat-square&logo=npm)" alt="npm version badge"/></a></li>
 </ul>
 <h3>OS tools</h3>
  <ul>
